@@ -49,7 +49,7 @@ Launch the Terminal, found in <br>
 
           <tr>
             <td><code>$ ls</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">List the Directory</td>
           </tr>
 
              <tr>
@@ -78,11 +78,11 @@ Launch the Terminal, found in <br>
           </tr>
           <tr>
             <td><code>$ pwd</code></td>
-            <td id="fadeout-1">Run Terminal and type npm -v</td>
+            <td id="fadeout-1">Print Working Directory</td>
           </tr>
           <tr>
             <td><code>$ cp</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Copy File and Folder</td>
           </tr>
               <tr>
             <td> <strong> <a href="https://docs.npmjs.com/misc/developers"> npmjs.com</a> </strong></td>
@@ -90,11 +90,11 @@ Launch the Terminal, found in <br>
           </tr>
           <tr>
             <td><code>$ mv</code></td>
-            <td id="fadeout-1">Run Terminal and type npm -v</td>
+            <td id="fadeout-1">Move </td>
           </tr>
           <tr>
             <td><code>$ rm</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Remove Directory </td>
           </tr>
               <tr>
             <td> <strong> <a href="https://docs.npmjs.com/misc/developers"> npmjs.com</a> </strong></td>
@@ -102,91 +102,91 @@ Launch the Terminal, found in <br>
           </tr>
           <tr>
             <td><code>$ mkdir</code></td>
-            <td id="fadeout-1">Run Terminal and type npm -v</td>
+            <td id="fadeout-1">Make Directory </td>
           </tr>
           <tr>
             <td><code>$ rmdir</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Remove Directory</td>
           </tr>
              <tr>
             <td><code>$ open</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Open the Directory, File Folder and all Files.</td>
           </tr>
              <tr>
             <td><code>$ kill killall</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Process End-ing. Kill All.</td>
           </tr>
              <tr>
             <td><code>$ whoami</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Who am i ?</td>
           </tr>
                <td><code>$ su</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Switch User - User Changes</td>
           </tr>
              <tr>
             <td><code>$ sudo</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Substitute User Do - Give a Command as Superuser (Root).</td>
           </tr>
              <tr>
             <td><code>$ pbcopy</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Pasteboard Copy</td>
           </tr>
             <tr>
             <td><code>$ pbpaste</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Pasteboard Past</td>
           </tr>
              <tr>
             <td><code>$ say</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Let Computer Speaking</td>
           </tr>
           <tr>
             <td><code>$ date</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Show  Date and Time.</td>
           </tr>
              <tr>
             <td><code>$ nano</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Text -Editor in Terminal.</td>
           </tr>
                <tr>
             <td><code>$ screencapture</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Make Screenshots</td>
           </tr>
                   <tr>
             <td><code>$ find</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Find Files.</td>
           </tr>
 
                            <tr>
             <td><code>$ mdfind</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Mac Spotlight. Search Entry Computer</td>
           </tr>
                            <tr>
             <td><code>$ ps</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">List all Activiti Process</td>
           </tr>
           <tr>
             <td><code>$ top</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">List detail Process List.</td>
           </tr>
                <tr>
             <td><code>$ history</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">List all last Commands.</td>
           </tr>
                <tr>
             <td><code>$ clear</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Clear your terminal Windows</td>
           </tr>
                <tr>
             <td><code>$ man</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Man-Page - Show the Man Site to the Command.</td>
           </tr>
                <tr>
             <td><code>$ which</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Which Command? </td>
           </tr>
                <tr>
             <td><code>$ whatis</code></td>
-            <td id="fadeout-1">To upgrade, run: [sudo] npm install npm -g</td>
+            <td id="fadeout-1">Short Info for the Command.</td>
           </tr>
           <tr>
             <td> <strong> <a href="https://docs.npmjs.com/misc/developers"> npmjs.com</a> </strong></td>
