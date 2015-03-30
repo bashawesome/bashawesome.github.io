@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://bashawesome.github.io/
+BASE_PATH : https://bashawesome.github.io/
 
 title : $ Bash (Unix shell) Awesome V.0.0.1
 
@@ -23,4 +23,4 @@ author:
   role: The Commandline and Git toolkit -List.
   email: lucasgatsas@gmail.com
   bio: "Simple, clean, $ Commandlines List for Mac Os X/ Unix & Linux! "
-  commandlines: http://icons.iconarchive.com/icons/xenatt/the-circle/512/App-Terminal-icon.png
+  commandlines: https://icons.iconarchive.com/icons/xenatt/the-circle/512/App-Terminal-icon.png
