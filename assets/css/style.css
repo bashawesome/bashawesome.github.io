@@ -1,0 +1,169 @@
+/* Style Sheet for $ Bash (Unix shell) Awesome V.0.0.1
+The Commandline and Git toolkit -List. by Lucas Gatsas 
+Twitter : https://www.twitter.com/LucasGatsas 
+Github : https://github.com/spaceg  
+Blog : https://spaceg.github.io;
+*/
+
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+
+body{
+  overflow-X:hidden; 
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #FFFFFF;
+  background-color: #3D3D3D;
+  border-radius: 4px;
+}
+#nav-menu{
+    position: fixed;
+    top: 45px;
+    right: 45px;
+    z-index: 4;
+}
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+
+.navbar-brand{
+
+	margin-bottom: 15px;
+}
+
+
+.author .author-image {
+  float: left;
+  margin-right: 20px;
+}
+
+.author-bio{
+font-family: 'Raleway', sans-serif;
+}
+
+.author-name{
+	font-family: 'Raleway', sans-serif;
+}
+
+.page-header {
+	  color: #A1A1A1;	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+	padding: 0 5% 0;
+	font-family: ubuntu;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+  text-decoration: none;
+}
+a#link-white {
+  color: rgb(84, 84, 84);
+}
+a.nav-link {
+	padding-bottom: 5px;
+	padding-top: 7px;
+	color: #aaa;
+}
+a.nav-link i{
+	font-size: 16px;
+}
+a.nav-link:hover { color: #777 }
+
+
+article {
+	padding: 0 5% 0;
+	margin-bottom: 40px;
+}
+
+.article_body{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#article_body{
+	font-family: 'Raleway', sans-serif;
+	font-size: large;
+}
+
+.post-date {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 3px;
+}
+
+
+
+footer {
+  padding-top: 15px;
+  font-family: 'Ubuntu';
+}
+
+#sidebar {
+	position: fixed;
+	padding-top: 8%;
+	height: 100%;
+	background-color:#0A0A0A; /*url("/assets/media/cover.png"),*/ 
+	/*background-image: url("http://rmdeaftheatre.com/wp-content/uploads/2012/11/gray-background-3.jpg");	*/
+	background-size: 100% 100%;
+	color: #fff;
+	z-index: 5;
+	color: #fff;
+}
+
+.sidebar-header {
+	text-align: center;
+}
+.sidebar-header .title{
+	letter-spacing: 0px;
+}
+
+.sidebar-header .title a{
+	/*font-family: 'Open Sans', Helvetica;*/
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+}
+
+
+#container{
+	overflow-x:hidden;
+	z-index: 3;
+}
+
+.title{
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-size: 45px;
+}
+.hr-line {
+	height: 1px;
+	border:none;
+	width: 40%;
+	background-color: rgba(255,255,255,0.50);
+}
+
+.hr-line1 {
+	height: 1px;
+	border:none;
+	width:15%;
+	background-color: rgba(255,255,255,0.50);
+}
+
+
+.commandlines-button{
+border: 1px solid rgba(255, 255, 255, 0.16);
+	padding-left: 13px;
+	border-radius: 20px;
+	padding-right: 12px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+button#commandlines-toogle {
+  border-color: #FFF;
+}
