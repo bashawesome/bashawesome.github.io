@@ -1,0 +1,34 @@
+
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}">
+		<img src="{{site.author.commandlines}}" class="img-circle" style="border-radius: 50%;
+border: 3px solid #FFF; height:150px;width:150px" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}">{{ site.title }}</a>
+         <p style="font-size:20px;">{{ site.author.role }}</p>
+    </h3>
+    
+    <hr class="hr-line">
+<h3 class="title">
+         <p style="font-size:18px">{{ site.author.bio }}</p>
+    </h3>
+
+
+ <h3 class="title" style="font-size:30px;">
+       <hr class="hr-line1">
+       <a type="button"  style="font-size:20px; padding:7px; padding-left:13px;padding-right:13px;margin-right: 10px;" class="commandlines-button " id="btnblog" href="{{ site.BASE_PATH }}/#blog">
+        <i class="fa" style="  color: gray;font-weight:bold;letter-spacing:0; font-family:arial,sans-serif"><i class="fa fa-cloud-download"></i> Go See & Download</i>
+      </a>
+      </h3>
+<br><br>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="130px" height="20px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="130px" height="20px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="130px" height="20px"></iframe>
+<br><br>
+<!-- {{ site.time | date: '%Y' }} --> 
+       <p class=" text-center">&copy; Developed & Maintenance by <a href="https://www.twitter.com/lucasgatsas" id="link-white"> {{ site.author.name }}.</a> </br>
+      Site Developed with  <a class="navbar-button" href="https://github.com/twbs/bootstrap" id="link-white">Bootstrap  V.3.3.4</a> and <a class="navbar-button" href="https://github.com/jekyll/jekyll" id="link-white">Jekyll. V.2.5.3 - BlogWare</a> hosted by  <a class="navbar-button" href="https://github.com/" id="link-white">Github.</a>
+ </p>
+
+</header>
+<! -- sidebar.html end -->
