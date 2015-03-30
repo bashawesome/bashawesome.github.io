@@ -8,6 +8,7 @@ categories: [Max Os X/ Unix]
 tags: [osx, unix, commandlines, setup, $bash]
 ---
 
+
 <img src="{{page.image}}" width="85%"/>
 <br/>
 <br/>
