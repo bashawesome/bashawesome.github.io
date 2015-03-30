@@ -2,11 +2,16 @@
 <html>
 	<head>
     <!--runs jekyll Blog over https:// on Github Pages --> 
+
+
+    <!--
     <script type="text/javascript">
 var host = "bashawesome.github.io";
 if ((host == window.location.host) && (window.location.protocol != "https:"))
     window.location.protocol = "https";
 </script>
+
+-->
 		<title>{{ page.title }}</title>
 	{% if page.description %}
 	<meta name="description" content="{{ page.description }}">
@@ -25,7 +30,7 @@ if ((host == window.location.host) && (window.location.protocol != "https:"))
 	
 <script type="text/javascript">
 $(document).ready(function(){
-if(window.location.href=="https://bashawesome.github.io")
+if(window.location.href=="bashawesome.github.io")
 {
 $("#sidebar").css({width:'100%'});
 $("#btnblog").click(function(){
