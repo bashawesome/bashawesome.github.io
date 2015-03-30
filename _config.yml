@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://127.0.0.1:4000/
+BASE_PATH : https://bashawesome.github.io
 
 title : $ Bash (Unix shell) Awesome V.0.0.1
 
