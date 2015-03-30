@@ -1,3 +1,2 @@
 # bashawesome.github.io
-bash awesome 
-fucking shit auth and premissions here? wtf me? 
+Get $bash unix shell commandlines toolkit v.0.0.1
