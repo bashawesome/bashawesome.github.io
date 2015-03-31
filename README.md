@@ -12,3 +12,13 @@ Download:
 
 Write and Developed by Lucas Gatsas. 
 [@lucasgatsas](https://www.twitter.com/lucasgatsas)
+
+
+GitHub 
+[@spaceg](https://github.com/spaceg)
+
+Twitter
+[@spaceg](https://www.twitter.com/lucasgatsas)
+
+Google Plus
+[@spaceg](https://plus.google.com/101826267816845608605/posts)
