@@ -18,7 +18,7 @@ GitHub
 [@spaceg](https://github.com/spaceg)
 
 Twitter
-[@spaceg](https://www.twitter.com/lucasgatsas)
+[@lucasgatsas](https://www.twitter.com/lucasgatsas)
 
 Google Plus
-[@spaceg](https://plus.google.com/101826267816845608605/posts)
+[@google-plus](https://plus.google.com/101826267816845608605/posts)
