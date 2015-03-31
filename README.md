@@ -8,3 +8,7 @@ See Website :
 
 Download: 
 [Download .zip](https://github.com/bashawesome/bashunixshell-awesome)
+
+
+Write and Developed by Lucas Gatsas. 
+[@lucasgatsas](https://www.twitter.com/lucasgatsas)
