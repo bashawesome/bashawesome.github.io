@@ -1,5 +1,5 @@
 # bashawesome.github.io
-<<<<<<< HEAD
+
 Get $bash unix shell commandlines toolkit v.0.0.1
 =======
 Get $bash unix shell commandlines toolkit v.0.0.1
